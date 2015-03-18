@@ -1,0 +1,2 @@
+serviceClass: com.project.greenote.client.LoginService
+path: 777465D89D840589831B2989134687DF.gwt.rpc

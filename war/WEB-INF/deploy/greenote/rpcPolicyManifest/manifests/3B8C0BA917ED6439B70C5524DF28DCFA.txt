@@ -1,0 +1,2 @@
+serviceClass: com.project.greenote.client.loginview.ServerNotifications
+path: D17AEFD1677E313E733E88E07F1383E9.gwt.rpc

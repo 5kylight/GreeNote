@@ -1,0 +1,2 @@
+serviceClass: com.project.greenote.client.GreetingService
+path: 0FE108CB5627F0AB074D9DD510174032.gwt.rpc

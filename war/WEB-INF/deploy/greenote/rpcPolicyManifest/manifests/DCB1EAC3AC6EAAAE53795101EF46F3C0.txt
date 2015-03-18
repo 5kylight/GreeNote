@@ -1,0 +1,2 @@
+serviceClass: com.project.greenote.client.mainview.NoteService
+path: BDE4B38A4A611C493F429DDB87C83A42.gwt.rpc
